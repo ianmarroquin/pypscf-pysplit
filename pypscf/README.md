@@ -1,4 +1,3 @@
 The pyPSCF.py file contains an updated script originally from https://github.com/weber-s/pyPSCF (under the same file name). Please use with Weber's pyPSCF. Also, the concentration file is formatted as seen below.
 
-
-<img width="244" alt="Screenshot 2023-08-23 at 11 43 27 AM" src="https://github.com/ianmarroquin/pypscf-pypsplit/assets/89706819/c5ecd715-99f1-4415-8a6e-71a03ee881ca">
+<img width="244" alt="Screenshot 2023-08-23 at 11 43 27 AM" src="https://github.com/ianmarroquin/pypscf-pysplit/assets/89706819/e783c83b-ae3c-4904-96df-e0dd93a1e0b4">
