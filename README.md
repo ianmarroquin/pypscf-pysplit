@@ -19,4 +19,4 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 
 brew install inetutils
 
-Type in ftp in the terminal to make sure it is properly installed.
+(Type "ftp" in the terminal to make sure it is properly installed).
